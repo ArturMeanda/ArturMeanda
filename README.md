@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, everybody! :wink:
 
-<!--
-**ArturMeanda/ArturMeanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :mortar_board: Estidante de Desenvolvimento de Sistemas ETEC Registro
+- :purple_heart: Apaixonado por Webdesign
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<a href="https://github.com/ArturMeanda/ArturMeanda">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMeanda&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+<hr>
+<a href="https://github.com/ArturMeanda/ArturMeanda">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArturMeanda&show_icons=true&line_height=27&theme=dracula" alt="GitHub Stats"/>
+</a>
