@@ -1,4 +1,4 @@
-## Hello, everybody! :wink:
+## Olá, para todos! :wink:
 
 - :mortar_board: Estidante de Desenvolvimento de Sistemas ETEC Registro
 - :purple_heart: Apaixonado por Webdesign
